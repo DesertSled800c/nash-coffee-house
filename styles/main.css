@@ -1,0 +1,39 @@
+body {
+    padding: 20px;
+    background-color: rgb(236, 217, 109);
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(243, 62, 62);
+    width: 200px;
+    border: 2px solid black;
+}
+
+.shop {
+    background-color: rgb(154, 230, 230);
+    width: 200px;
+    border: 2px solid black;
+}
+
+.list {
+    background-color: plum;
+}
+
+.boxOne, .boxTwo, .boxThree, .boxFour {
+    display: flex;
+    justify-content: column;
+    justify-content: space-around;
+}
+
+.lastLine {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pageHeader {
+    margin: 10px;
+   
+    
+}
